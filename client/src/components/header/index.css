@@ -1,0 +1,18 @@
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.logo {
+    width: 256px;
+}
+
+.login-btn-wrapper {
+    display: flex;
+    gap: 8px;
+}
+
+.secondary-btn {
+    
+}
